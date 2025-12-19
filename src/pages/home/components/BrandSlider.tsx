@@ -84,7 +84,7 @@ export default function BrandSlider() {
                 x: {
                   repeat: Infinity,
                   repeatType: "loop",
-                  duration: 15,
+                  duration: 5,
                   ease: "linear",
                 },
               }}

@@ -64,19 +64,11 @@ export default function HeroCarousel() {
             >
               Welcome to
             </motion.h2>
-            <motion.h1 
+            <h1 
               className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold mb-6 leading-tight"
-              animate={{
-                scale: [1, 1.02, 1],
-              }}
-              transition={{
-                duration: 4,
-                repeat: Infinity,
-                ease: "easeInOut"
-              }}
             >
-              Wincart
-            </motion.h1>
+              WINCART
+            </h1>
             <motion.p 
               className="text-2xl md:text-4xl font-serif text-amber-200 mb-4 drop-shadow-lg"
               animate={{

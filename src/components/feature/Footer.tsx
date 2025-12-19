@@ -147,7 +147,6 @@ export default function Footer() {
               rel="noopener noreferrer"
               className="text-sm text-primary-300 hover:text-rose-gold transition-colors whitespace-nowrap"
             >
-              Powered by Readdy
             </a>
           </div>
         </div>
